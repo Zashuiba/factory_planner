@@ -1,0 +1,8 @@
+Green circuit
+1
+0.5
+Copper coil
+2
+0.5
+3
+n
